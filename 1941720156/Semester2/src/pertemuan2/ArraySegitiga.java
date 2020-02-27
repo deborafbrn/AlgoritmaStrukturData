@@ -31,7 +31,7 @@ public class ArraySegitiga {
         
         for(int a=0; a<4; a++){
             System.out.println("Segitiga ke-"+a);
-            System.out.println("Memiliki Alas: "+sgArray[a].alas+" dan tinggi: "+sgArray[a].tinggi);
+            System.out.println("Memilik         i Alas: "+sgArray[a].alas+" dan tinggi: "+sgArray[a].tinggi);
             System.out.println("Luas Segitiga ke-"+a+" = "+sgArray[a].hitungLuas(sgArray[a].alas,sgArray[a].tinggi));
             System.out.println("Keliling Segitiga ke-"+a+" = "+sgArray[a].hitungKeliling());
             System.out.println();

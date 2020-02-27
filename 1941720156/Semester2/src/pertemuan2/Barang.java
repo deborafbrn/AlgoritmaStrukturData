@@ -15,7 +15,7 @@ public class Barang {
     int stok, hargaSatuan;
     
     Barang(){
-        Barang b3 = new Barang();
+        
     }
     Barang(String nm, String jn, int st, int hs){       
         namaBarang = nm;
